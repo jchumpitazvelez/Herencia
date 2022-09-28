@@ -62,7 +62,7 @@ public class Ejercicio2 {
              entrenador.setNombre(nombreEntrenador);
              entrenador.setApellidos(apellidoEntrenador);
              
-             futbolista.setNombre(nombreFutbolista);
+            futbolista.setNombre(nombreFutbolista);
              futbolista.setApellidos(apellidoFutbolista);
              
              masajista.setNombre(nombreMasajista);
