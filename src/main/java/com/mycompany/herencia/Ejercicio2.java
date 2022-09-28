@@ -68,6 +68,7 @@ public class Ejercicio2 {
              masajista.setNombre(nombreMasajista);
              masajista.setApellidos(apellidoMasajista);
              
+           
              System.out.println("\n==========Pintando Resultados========");
              System.out.println("Nombres y Apellidos del Entrenador : "+entrenador.toString());
              System.out.println("Año de Nacimiento: "+ entrenador.anioNacimiento(entrenador.getEdad()));
